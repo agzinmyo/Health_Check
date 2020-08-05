@@ -12,7 +12,7 @@ def check_localhost():
 
 def check_connectivity():
     request = requests.get("http://www.google.com")
-    response = requests.status_code
+    response = request.status_code
     if response == 200:
         return True
     return False
