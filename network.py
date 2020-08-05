@@ -16,3 +16,5 @@ def check_connectivity():
     if response == 200:
         return True
     return False
+
+# The first days of Python
