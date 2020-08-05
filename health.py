@@ -25,3 +25,5 @@ elif check_localhost() and check_connectivity():
     print("Everything OK")
 else:
     print("Network check failed")
+
+# Health Check

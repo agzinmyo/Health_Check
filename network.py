@@ -17,4 +17,4 @@ def check_connectivity():
         return True
     return False
 
-# The first days of Python Script
+# The first days of Python
